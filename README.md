@@ -30,5 +30,4 @@ two pictures. The results are pretty good on the testing dataset with an accurac
 75%, even though the confusion matrix we obtain
 should suggest trying the model with other training
 datasets. Then, I also developed the Viola-Jones
-algorithm, with similar results. But, even with a 60%
-- accuracy, the confusion matrix obtained seem a little bit better than for the SIFT model, with, in particular, significantly better results on all categories except the ”Road Sign” one, which is dominant in our dataset and explains the medium accuracy rate.
+algorithm, with similar results. But, even with a 60% accuracy, the confusion matrix obtained seem a little bit better than for the SIFT model, with, in particular, significantly better results on all categories except the ”Road Sign” one, which is dominant in our dataset and explains the medium accuracy rate.
